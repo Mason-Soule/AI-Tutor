@@ -1,2 +1,2 @@
 # AI-Tutor
-AI tutor that can help prepare or the exam by giving you practice problem and teach lessons on concepts.
+AI-powered tutor that helps students prepare for exams by generating practice problems and explaining key concepts through guided lessons.
